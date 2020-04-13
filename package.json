@@ -1,0 +1,18 @@
+{
+  "name": "@brpereyra/directory-exists",
+  "version": "0.0.1",
+  "description": "Validate if a directory exists",
+  "main": "index.js",
+  "keywords": [
+    "directory",
+    "exist",
+    "validate",
+    "basic"
+  ],
+  "author": {
+    "email": "brp2196@gmail.com",
+    "name": "Bryan Pereyra",
+    "url": "https://brpereyra.com.ve"
+  },
+  "license": "MIT"
+}
