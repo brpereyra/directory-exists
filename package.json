@@ -1,6 +1,6 @@
 {
   "name": "@brpereyra/directory-exists",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Validate if a directory exists",
   "main": "index.js",
   "keywords": [
@@ -14,8 +14,5 @@
     "name": "Bryan Pereyra",
     "url": "https://brpereyra.com.ve"
   },
-  "license": "MIT",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-  }
+  "license": "MIT"
 }
