@@ -14,5 +14,8 @@
     "name": "Bryan Pereyra",
     "url": "https://brpereyra.com.ve"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  }
 }

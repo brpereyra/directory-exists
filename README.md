@@ -1,4 +1,4 @@
-# Exist directory
+# Directory Exist
 Allows to verify the existence of any directory on the computer.
 
 ## Install
