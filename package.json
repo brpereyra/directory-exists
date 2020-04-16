@@ -1,13 +1,14 @@
 {
   "name": "@brpereyra/directory-exists",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Validate if a directory exists",
   "main": "index.js",
   "keywords": [
     "directory",
     "exist",
     "validate",
-    "basic"
+    "basic",
+    "exists"
   ],
   "repository": {
     "url": "https://github.com/brpereyra/directory-exists.git",

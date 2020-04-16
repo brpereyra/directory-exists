@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.5] 2020-04-16
+
+### Changed
+
+- Statistics and version added to readme
+
 ## [0.0.4] 2020-04-15
 
 ### Added
