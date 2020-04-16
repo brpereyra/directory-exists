@@ -2,11 +2,11 @@
 
 Allows to verify the existence of any directory on the computer.
 
-## Install
+# Install
 
 `$ npm install @brpereyra/directory-exists`
 
-## Example
+# Examples
 
 ```js
 const de = require("@brpereyra/directory-exists");
@@ -23,3 +23,7 @@ const exists = directoryExists("path/to/directory");
 
 console.log(exists); // return true if the directory exists
 ```
+
+# License
+
+[MIT](https://github.com/brpereyra/directory-exists/blob/master/LICENSE.md)

@@ -9,6 +9,11 @@
     "validate",
     "basic"
   ],
+  "repository": {
+    "url": "https://github.com/brpereyra/directory-exists.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/brpereyra/directory-exists/blob/master/README.md",
   "author": {
     "email": "brp2196@gmail.com",
     "name": "Bryan Pereyra",
