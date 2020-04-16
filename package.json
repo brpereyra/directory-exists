@@ -8,7 +8,8 @@
     "exist",
     "validate",
     "basic",
-    "exists"
+    "exists",
+    "electron"
   ],
   "repository": {
     "url": "https://github.com/brpereyra/directory-exists.git",
