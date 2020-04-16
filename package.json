@@ -1,6 +1,6 @@
 {
   "name": "@brpereyra/directory-exists",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Validate if a directory exists",
   "main": "index.js",
   "keywords": [
